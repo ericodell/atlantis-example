@@ -1,3 +1,3 @@
 output "hello" {
-  value = "hello from atlantis!"
+  value = "to build or buy, that is the question"
 }
